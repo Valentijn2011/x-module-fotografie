@@ -5,6 +5,9 @@ body {
   text-align: left ;
 }
 
+p {
+  line-height: 1.2;
+}
 
 .end {
   text-align: center;
