@@ -2,7 +2,11 @@ body {
   background-color: #151515;
   font-family: 'Raleway', sans-serif;
   color: white; 
-  text-align: left ;
+  text-align: left;
+}
+
+.intro {
+  font-size: 30px;
 }
 
 p {
